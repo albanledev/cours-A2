@@ -1,0 +1,19 @@
+ul
+{
+    background-color: aqua;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+h1{
+    border: 3px black outset;
+}
+
+li:nth-child(2){
+    color: red;
+}
