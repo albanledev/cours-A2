@@ -1,6 +1,6 @@
 ul
 {
-    background-color: aqua;
+    background-color: green;
 }
 
 *{
@@ -16,4 +16,8 @@ h1{
 
 li:nth-child(2){
     color: red;
+}
+
+body{
+    background-color: blueviolet;
 }
